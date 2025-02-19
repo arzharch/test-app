@@ -1,5 +1,4 @@
-package com.frontend
-
+package com.example.testapp
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
 import com.facebook.react.defaults.DefaultNewArchitectureEntryPoint.fabricEnabled
